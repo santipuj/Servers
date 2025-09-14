@@ -1,0 +1,61 @@
+{
+  // Enable recruitment balance feature (survival mode summoning gives units weakness and slowness effects)
+  "enableRecruitBalance": true,
+
+  // Give manual to players on first join
+  "enableFirstJoinManual": true,
+
+  // Generate scrolls in treasure chests
+  "enableScrollLootGeneration": true,
+
+  // Allow monsters to drop scrolls
+  "enableScrollMobDrops": true,
+
+  // Allow recalling soldiers to inventory (shift + right click)
+  "allowSoldierRecall": true,
+
+  // Allow changing soldier equipment (shift + attack)
+  "allowEquipmentChange": true,
+
+  // Allow recalling siege units to inventory in survival mode (shift + right click)
+  "allowSiegeRecall": false,
+
+  // Allow melee attack creepers
+  "allowMeleeAttackCreeper": false,
+
+  // Player friendly fire damage multiplier (damage dealt by players to their own soldiers)
+  "playerFriendlyFireDamageMultiplier": 0.5,
+
+  // Allow soldiers to drop equipment when killed
+  "allowEquipmentDrop": false,
+
+  // Whether soldiers share experience with the player upon killing mobs
+  "shareExperienceWithPlayer": true,
+
+  // Soldier follow distance configuration
+  // Follow distance (inner) - maximum follow distance when idle
+  "followDistanceInner": 5.0,
+  // Follow distance (outer) - maximum follow distance during combat
+  "followDistanceOuter": 15.0,
+
+  // Soldier level cap
+  "soldierLevelCap": 99999,
+
+  // Allow summoning tier 4 armies
+  "allowLevel4ArmySummoning": false,
+
+  // Allow summoning undead armies
+  "allowNecromancySummoning": false,
+
+  // Enable worship mechanism (resistance boost and health regeneration based on nearby controlled entities)
+  "enableWorshipMechanism": true,
+
+  // Enable player puppets (whether to convert players into controllable units in RTS mode)
+  "enablePlayerPuppets": true,
+
+  // Enable Better Mob Combat integration (use Better Combat attack system for melee units)
+  "enableBetterMobCombat": true,
+
+  // Enable Epic Knights compatibility (use Epic Knights equipment by default)
+  "enableEpicKnightsCompat": false
+}
