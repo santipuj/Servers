@@ -463,6 +463,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-09-14 22:45:17 +0000",
       "potato": "2025-09-14 05:36:19 +0000",
       "cookie": "2025-09-14 05:32:22 +0000",
       "rotten_flesh": "2025-09-14 05:32:04 +0000"
@@ -1273,77 +1274,41 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mores:obtain_all": {
     "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
+      "obtain_tin_ingot": "2025-09-14 22:37:20 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
+      "has_furnace": "2025-09-14 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-14 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_daggers": {
+    "criteria": {
+      "obtain_tin_dagger": "2025-09-14 22:42:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "mores:smelt_more": {
     "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
+      "smelt_tin_ore": "2025-09-14 22:37:20 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "mores:obtain_tin_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
+      "obtain_tin_ore": "2025-09-14 22:33:20 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-09-14 05:54:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

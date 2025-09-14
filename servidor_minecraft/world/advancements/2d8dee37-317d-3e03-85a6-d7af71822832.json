@@ -1004,9 +1004,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-09-14 22:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-14 22:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-14 22:31:44 +0000"
     },
     "done": true
   },
@@ -1019,6 +1043,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-14 22:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-09-14 22:37:30 +0000"
     },
     "done": true
   },
@@ -1036,6 +1066,9 @@
   },
   "mores:obtain_all": {
     "criteria": {
+      "obtain_cobalt_ingot": "2025-09-14 22:31:41 +0000",
+      "obtain_tin_ingot": "2025-09-14 22:27:51 +0000",
+      "obtain_sapphire_gem": "2025-09-14 22:28:42 +0000",
       "obtain_steel_ingot": "2025-09-14 22:08:41 +0000"
     },
     "done": false
@@ -1043,6 +1076,24 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-14 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-09-14 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_horse_armor": {
+    "criteria": {
+      "craft_horse_armor": "2025-09-14 22:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
     },
     "done": true
   },
@@ -1073,6 +1124,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-14 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
     },
     "done": true
   },
@@ -1124,6 +1181,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-09-14 22:09:34 +0000"
@@ -1148,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-14 22:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-09-14 22:09:34 +0000"
@@ -1157,6 +1226,24 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-09-14 22:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "mores:smelt_more": {
+    "criteria": {
+      "smelt_tin_ore": "2025-09-14 22:27:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
     },
     "done": true
   },
@@ -1172,9 +1259,29 @@
     },
     "done": true
   },
+  "mores:craft_all_horse_armors": {
+    "criteria": {
+      "craft_obsidian_horse_armor": "2025-09-14 22:44:29 +0000",
+      "craft_amethyst_horse_armor": "2025-09-14 22:27:18 +0000",
+      "craft_emerald_horse_armor": "2025-09-14 22:27:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-09-14 22:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-09-14 22:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-09-14 22:44:29 +0000"
     },
     "done": true
   },
@@ -1193,6 +1300,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-09-14 22:18:58 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_sapphire": {
+    "criteria": {
+      "obtain_sapphire_gem": "2025-09-14 22:28:42 +0000"
     },
     "done": true
   },
