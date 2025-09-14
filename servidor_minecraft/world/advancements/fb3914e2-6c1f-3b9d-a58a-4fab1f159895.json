@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-09-14 22:48:39 +0000",
       "minecraft:jungle": "2025-09-14 05:13:16 +0000"
     },
     "done": false
@@ -463,6 +464,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-14 22:47:06 +0000",
       "cooked_beef": "2025-09-14 22:45:17 +0000",
       "potato": "2025-09-14 05:36:19 +0000",
       "cookie": "2025-09-14 05:32:22 +0000",
@@ -1274,15 +1276,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-14 22:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
   "mores:obtain_all": {
     "criteria": {
       "obtain_tin_ingot": "2025-09-14 22:37:20 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_horse_armor": {
+    "criteria": {
+      "craft_horse_armor": "2025-09-14 22:52:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-09-14 22:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-14 22:47:51 +0000"
     },
     "done": true
   },
@@ -1298,15 +1342,87 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-14 22:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-14 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
   "mores:smelt_more": {
     "criteria": {
       "smelt_tin_ore": "2025-09-14 22:37:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-14 22:46:19 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_horse_armors": {
+    "criteria": {
+      "craft_emerald_horse_armor": "2025-09-14 22:52:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-14 22:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-14 22:46:28 +0000"
+    },
+    "done": true
+  },
   "mores:obtain_tin_ore": {
     "criteria": {
       "obtain_tin_ore": "2025-09-14 22:33:20 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_silver_ore": {
+    "criteria": {
+      "obtain_silver_ore": "2025-09-14 22:47:34 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_cobalt_ore": {
+    "criteria": {
+      "obtain_cobalt_ore": "2025-09-14 22:49:56 +0000"
     },
     "done": true
   },
