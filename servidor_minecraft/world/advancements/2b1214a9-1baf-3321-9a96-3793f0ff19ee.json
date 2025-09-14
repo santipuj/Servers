@@ -618,7 +618,8 @@
       "minecraft:skeleton": "2025-09-14 05:06:56 +0000",
       "minecraft:spider": "2025-09-14 05:05:58 +0000",
       "minecraft:creeper": "2025-09-14 21:16:29 +0000",
-      "minecraft:husk": "2025-09-14 05:06:22 +0000"
+      "minecraft:husk": "2025-09-14 05:06:22 +0000",
+      "minecraft:zombie": "2025-09-14 21:41:24 +0000"
     },
     "done": false
   },
@@ -1699,6 +1700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-09-14 21:14:47 +0000"
@@ -1711,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-14 21:14:47 +0000"
@@ -1720,6 +1733,18 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-14 21:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
     },
     "done": true
   },
@@ -1753,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-09-14 21:14:47 +0000"
@@ -1780,6 +1811,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-09-14 21:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-09-14 21:40:25 +0000"
     },
     "done": true
   },
