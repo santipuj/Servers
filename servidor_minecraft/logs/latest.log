@@ -250,3 +250,15 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [14Sep2025 20:35:49.978] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
 [14Sep2025 20:40:35.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wimiloz lost connection: Disconnected
 [14Sep2025 20:40:35.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz left the game
+[14Sep2025 20:43:50.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wimiloz[/127.175.95.168:42057] logged in with entity id 6545 at (3455.1904169327436, 76.02442408821369, 1443.5610022789292)
+[14Sep2025 20:43:50.124] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Wimiloz
+[14Sep2025 20:43:50.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz joined the game
+[14Sep2025 20:43:50.144] [Server thread/INFO] [Jade/]: Syncing config to Wimiloz (1d190665-56d0-353e-a41a-4bbcb40ebbbb)
+[14Sep2025 20:43:50.145] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[14Sep2025 20:43:51.122] [Server thread/INFO] [STDOUT/]: [ydmsama.hundred_years_war.main.utils.BetterMobCombatIntegration:checkAndLoadBetterMobCombat:101]: [HundredYearsWar] Better Mob Combat not found, using default attack system
+[14Sep2025 20:50:30.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wimiloz has made the advancement [More Metal]
+[14Sep2025 20:57:37.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9691, l='ServerLevel[world]', x=3464.47, y=62.05, z=1255.77] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 20:57:42.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9692, l='ServerLevel[world]', x=3464.70, y=62.57, z=1257.70] died, message: 'Unemployed was slain by Zombie Villager'
+[14Sep2025 20:57:53.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9709, l='ServerLevel[world]', x=3464.30, y=62.17, z=1257.68] died, message: 'Unemployed was slain by Zombie Villager'
+[14Sep2025 21:00:05.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9633, l='ServerLevel[world]', x=3448.52, y=53.00, z=1282.30] died, message: 'Unemployed was slain by Zombie'
+[14Sep2025 21:00:07.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9632, l='ServerLevel[world]', x=3449.70, y=53.00, z=1281.37] died, message: 'Unemployed was slain by Zombie'
