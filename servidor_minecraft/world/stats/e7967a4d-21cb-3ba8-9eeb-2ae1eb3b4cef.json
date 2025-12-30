@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:dirt": 8
+    },
+    "minecraft:used": {
+      "minecraft:egg": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:dirt": 8
+    },
+    "minecraft:killed_by": {
+      "minecraft:creeper": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 201,
+      "minecraft:walk_one_cm": 1320,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 776,
+      "minecraft:play_time": 3377,
+      "minecraft:damage_dealt": 20,
+      "minecraft:jump": 109,
+      "minecraft:time_since_death": 167,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 6940,
+      "minecraft:fall_one_cm": 8438,
+      "minecraft:total_world_time": 3377,
+      "minecraft:fly_one_cm": 35783,
+      "minecraft:deaths": 2
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,22 @@
+[30Dec2025 00:10:52.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: F4zeX21[/127.23.75.181:36411] logged in with entity id 5863 at (-499.1698384545995, 68.0, 4572.002207623692)
+[30Dec2025 00:10:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: F4zeX21 joined the game
+[30Dec2025 00:12:12.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mathi_VM[/127.195.195.107:41529] logged in with entity id 6480 at (-4287.536105055337, 69.0, 5411.260025983566)
+[30Dec2025 00:12:12.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mathi_VM joined the game
+[30Dec2025 00:17:45.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-500, y=67, z=4574} BlockPos{x=-501, y=66, z=4574}
+[30Dec2025 00:20:59.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> ib
+[30Dec2025 00:21:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:05.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:06.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <F4zeX21> Zzz
+[30Dec2025 00:21:51.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=63, z=4598} BlockPos{x=-495, y=63, z=4646}
+[30Dec2025 00:23:46.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=60, z=4629} BlockPos{x=-496, y=62, z=4626}
+[30Dec2025 00:33:24.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MArCos33342Y[/127.241.98.133:39563] logged in with entity id 15188 at (-557.7369766278664, 67.0, 4554.947725138174)
+[30Dec2025 00:33:24.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MArCos33342Y joined the game
+[30Dec2025 00:37:33.926] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Villager'/5771, l='ServerLevel[world]', x=-516.51, y=68.00, z=4571.49] died, message: 'Villager was slain by Zombie'
+[30Dec2025 00:38:29.078] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Armorer'/5696, l='ServerLevel[world]', x=-509.53, y=68.00, z=4570.53] died, message: 'Armorer was slain by Zombie'
+[30Dec2025 00:38:31.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MArCos33342Y has reached the goal [Postmortal]
+[30Dec2025 00:39:46.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: F4zeX21 lost connection: Disconnected
+[30Dec2025 00:39:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: F4zeX21 left the game
